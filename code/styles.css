@@ -40,7 +40,7 @@ a {
 }
 
 #sign {
-    color: #ffffff;
+    color: #ffffee;
     height: 40px;
     width: 80px;
     font-size: 16px;
@@ -76,7 +76,7 @@ p {
     font-size: 24px;
     border: none;
     color: chartreuse;
-    background-color: #ffffff;
+    background-color: #ffffee;
     cursor: pointer;
 }
 
